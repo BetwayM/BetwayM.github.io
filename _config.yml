@@ -13,8 +13,8 @@ timezone: ""
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://BetwayM.github.io/BetwayM
-root: /BetwayM/
+url: https://BetwayM.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,5 +99,5 @@ theme: yilia-plus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/BetwayM/BetwayM.github.io.git
+  repo: https://github.com/BetwayM/betwaym.github.io.git
   branch: gh-pages
